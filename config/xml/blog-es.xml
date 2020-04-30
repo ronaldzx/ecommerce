@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>¿Cómo hacer un brainstorming o lluvia de ideas efectivo para tu tienda online?</title>
+    <link>https://www.prestashop.com/es/blog/que-es-brainstorming</link>
+    <description>¿Quieres comenzar tu propia tienda online, pero no tienes ni idea de por dónde empezar o qué hacer?</description>
+     <pubDate>Wed, 22 Apr 2020 17:52:36 +0200</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-brainstorming</guid>
+  </item>
+  <item>
+    <title>9 Soluciones a corto plazo para PYMES para hacer frente al Covid-19</title>
+    <link>https://www.prestashop.com/es/blog/soluciones-pymes</link>
+    <description>Las PYMES se ven muy afectadas económicamente por la situación actual del Covid-19.</description>
+     <pubDate>Fri, 17 Apr 2020 19:06:03 +0200</pubDate>
+ <dc:creator>Aurélien Bellanger</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/soluciones-pymes</guid>
+  </item>
+  <item>
+    <title>¿Qué es el Keyword Stuffing, en qué consiste y cómo evitarla en tu web? </title>
+    <link>https://www.prestashop.com/es/blog/keyword-stuffing</link>
+    <description>¿Conoces qué es el Keyword Stuffing y cómo podría (hoy en día) frustrar tus intentos de posicionar tus contenidos en Internet?</description>
+     <pubDate>Tue, 14 Apr 2020 17:59:47 +0200</pubDate>
+ <dc:creator>Lucía Rico</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/keyword-stuffing</guid>
+  </item>
+  <item>
+    <title>La formación: un elemento indispensable del ecosistema de PrestaShop</title>
+    <link>https://www.prestashop.com/es/blog/formacion-prestashop</link>
+    <description>¿Qué importancia das a la formación dentro de tu equipo de trabajo?</description>
+     <pubDate>Tue, 14 Apr 2020 17:19:44 +0200</pubDate>
+ <dc:creator>Aurélien Bellanger</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/formacion-prestashop</guid>
+  </item>
+  <item>
+    <title>5 Técnicas de Marketing clave para potenciar tu tienda online</title>
+    <link>https://www.prestashop.com/es/blog/tecnicas-de-marketing</link>
+    <description>Existen una gran cantidad de técnicas y estrategias que te pueden ayudar en tu eCommerce, algunas de ellas especializada en potenciar aspectos específicos de tu marca o negocio, mientras que otros </description>
+     <pubDate>Mon, 13 Apr 2020 11:02:22 +0200</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/tecnicas-de-marketing</guid>
+  </item>
+  <item>
+    <title>¿Cuál es el impacto del Covid-19 en el eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/infografia-e-commerce-covid-19</link>
+    <description>El 24 de marzo, PrestaShop invitó a los miembros de su ecosistema a participar en una encuesta sobre el impacto del confinamiento en el eCommerce.</description>
+     <pubDate>Tue, 07 Apr 2020 17:03:19 +0200</pubDate>
+ <dc:creator>Flavia Sanchez</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/infografia-e-commerce-covid-19</guid>
+  </item>
+  <item>
+    <title>¿Qué es el Atributo ALT en las imágenes y cómo beneficia al SEO de tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/atributo-alt-imagenes</link>
+    <description>¿Estás implementando el atributo ALT a las imágenes que subes a tu web?</description>
+     <pubDate>Tue, 07 Apr 2020 13:41:21 +0200</pubDate>
+ <dc:creator>Daniel Díaz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/atributo-alt-imagenes</guid>
+  </item>
+  <item>
+    <title>Confinamiento: nuestros consejos para teletrabajar correctamente</title>
+    <link>https://www.prestashop.com/es/blog/confinamiento-consejos-teletrabajo</link>
+    <description>¿Has comenzado ya con el teletrabajo en tus tareas de oficina?</description>
+     <pubDate>Mon, 30 Mar 2020 14:44:44 +0200</pubDate>
+ <dc:creator>Aurélien Bellanger</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/confinamiento-consejos-teletrabajo</guid>
+  </item>
+  <item>
+    <title>#RestartFromHome, la iniciativa para ayudarte a que te recuperes de la crisis por COVID-19</title>
+    <link>https://www.prestashop.com/es/blog/restart-from-home</link>
+    <description>Es un momento difícil para todos, con toda la crisis acaecida por el COVID-19, la cual está afectando negativamente a todos los profesionales del sector eCommerce.</description>
+     <pubDate>Fri, 27 Mar 2020 18:27:36 +0100</pubDate>
+ <dc:creator>Flavia Sanchez ES</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/restart-from-home</guid>
+  </item>
+  <item>
+    <title>Crisis de salud del COVID-19: todo lo que los responsables de eCommerce necesitan saber</title>
+    <link>https://www.prestashop.com/es/blog/informacion-crisis-covid-19</link>
+    <description>Durante esta crisis sanitaria, circulan enormes cantidades de información y a veces es difícil orientarse. </description>
+     <pubDate>Fri, 27 Mar 2020 17:30:29 +0100</pubDate>
+ <dc:creator>Flavia Sanchez ES</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/informacion-crisis-covid-19</guid>
+  </item>
+  </channel>
+</rss>
