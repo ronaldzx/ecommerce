@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => 'dbinstance-1.cki8jttke5ch.us-east-1.rds.amazonaws.com',
+    'database_port' => '3306',
+    'database_name' => 'appweb1',
+    'database_user' => 'admin',
+    'database_password' => '4dm1n2020@',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    // 'mailer_transport' => 'smtp',
+    // 'mailer_host' => '127.0.0.1',
+    // 'mailer_user' => NULL,
+    // 'mailer_password' => NULL,
+    // 'secret' => 'MeU19Uq2w0pBzC7D09nsOAqVCDkS40FAXTaj9ZeoaeLXDWYNzn2JtgUX',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-04-26',
+    'locale' => 'es-ES',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'txS0jB0CIvKbkEkcPUAQUIOpW9n41WneHkOa26dDWFdY2mWWLc3biYR5',
+    'cookie_iv' => 'M33WIhMR',
+    'new_cookie_key' => 'def00000bf6f5cc65571711f7156c5f091c4694577232bd64ef3e5fa2e8672c493dcc0e46d06080f89a0934fbb96488132cb297df237f92014533f6aab9d9ac5de6fc234',
+  ),
+);

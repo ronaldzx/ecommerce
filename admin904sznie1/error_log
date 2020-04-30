@@ -1,0 +1,11 @@
+[26-Apr-2020 00:50:11 America/Lima] PHP Warning:  Use of undefined constant ADMIN_LEGACY_CONTEXT - assumed 'ADMIN_LEGACY_CONTEXT' (this will throw an Error in a future version of PHP) in /home2/tuquidel/public_html/ecommerce/modules/ps_mbo/ps_mbo.php on line 320
+[26-Apr-2020 00:50:57 America/Lima] PHP Warning:  Use of undefined constant ADMIN_LEGACY_CONTEXT - assumed 'ADMIN_LEGACY_CONTEXT' (this will throw an Error in a future version of PHP) in /home2/tuquidel/public_html/ecommerce/modules/ps_mbo/ps_mbo.php on line 320
+[26-Apr-2020 00:51:22 America/Lima] PHP Warning:  Use of undefined constant ADMIN_LEGACY_CONTEXT - assumed 'ADMIN_LEGACY_CONTEXT' (this will throw an Error in a future version of PHP) in /home2/tuquidel/public_html/ecommerce/modules/ps_mbo/ps_mbo.php on line 320
+[26-Apr-2020 02:53:36 America/Lima] PHP Fatal error:  Uncaught RuntimeException: Unable to create the Doctrine Proxy directory "/home2/tuquidel/public_html/ecommerce/var/cache/prod/doctrine/orm/Proxies". in /home2/tuquidel/public_html/ecommerce/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/CacheWarmer/ProxyCacheWarmer.php:53
+Stack trace:
+#0 /home2/tuquidel/public_html/ecommerce/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/CacheWarmer/CacheWarmerAggregate.php(52): Symfony\Bridge\Doctrine\CacheWarmer\ProxyCacheWarmer->warmUp('/home2/tuquidel...')
+#1 /home2/tuquidel/public_html/ecommerce/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php(680): Symfony\Component\HttpKernel\CacheWarmer\CacheWarmerAggregate->warmUp('/home2/tuquidel...')
+#2 /home2/tuquidel/public_html/ecommerce/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php(135): Symfony\Component\HttpKernel\Kernel->initializeContainer()
+#3 /home2/tuquidel/public_html/ecommerce/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/Kernel.php(195): Symfony\Component\ in /home2/tuquidel/public_html/ecommerce/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/CacheWarmer/ProxyCacheWarmer.php on line 53
+[26-Apr-2020 15:03:47 America/Lima] PHP Warning:  Invalid argument supplied for foreach() in /home2/tuquidel/public_html/ecommerce/modules/statsvisits/statsvisits.php on line 196
+[26-Apr-2020 15:03:47 America/Lima] PHP Warning:  Invalid argument supplied for foreach() in /home2/tuquidel/public_html/ecommerce/modules/statsvisits/statsvisits.php on line 196
